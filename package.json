@@ -11,5 +11,17 @@
     "grunt-contrib-watch": "^0.6.1",
     "grunt-sass": "^1.0.0",
     "grunt-wiredep": "^2.0.0"
-  }
+  },
+  "main": "gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/annafractuous/gruntworkflows.git"
+  },
+  "bugs": {
+    "url": "https://github.com/annafractuous/gruntworkflows/issues"
+  },
+  "homepage": "https://github.com/annafractuous/gruntworkflows"
 }
